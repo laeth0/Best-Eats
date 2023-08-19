@@ -1,4 +1,5 @@
-# Build A React JS Website Styled With Tailwind CSS
+# Best Eats
+## Build A React JS Website Styled With Tailwind CSS
 
 
 <p>
@@ -17,5 +18,5 @@ Join us at Best Eats and experience the epitome of culinary craftsmanship. Let u
 </p>
 
 
-<img sr="https://github.com/laeth0/Best-Eats/blob/main/public/mockup%20image.jpg" >
-<img sr="https://github.com/laeth0/Best-Eats/blob/main/public/image%20for%20all%20page.png" >
+<img src="https://github.com/laeth0/Best-Eats/blob/main/public/mockup%20image.jpg" >
+<img src="https://github.com/laeth0/Best-Eats/blob/main/public/image%20for%20all%20page.png" >
