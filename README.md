@@ -1,7 +1,5 @@
 # Build A React JS Website Styled With Tailwind CSS
 
-<p>This was a fun little project consisting of React & Tailwind which is a super powerful frontend combination you can used to quickly build websites. In this build I focus on adding a little extra javascript with the array filter method to filter out specific food types and pricing categories.
-</p>
 
 <p>
  Welcome to Best Eats, where culinary excellence meets unforgettable dining experiences!
@@ -15,4 +13,9 @@ Step into our inviting ambience, where modern elegance meets warm hospitality. W
 Join us at Best Eats and experience the epitome of culinary craftsmanship. Let us take you on a culinary odyssey that transcends ordinary dining, and discover flavours that will linger in your memory long after the last bite. Your gastronomic adventure awaits.
 </p>
 
-<img sr="" >
+<p>This was a fun little project consisting of React & Tailwind which is a super powerful frontend combination you can use to quickly build websites. In this build, I focus on adding a little extra javascript with the array filter method to filter out specific food types and pricing categories.
+</p>
+
+
+<img sr="https://github.com/laeth0/Best-Eats/blob/main/public/mockup%20image.jpg" >
+<img sr="https://github.com/laeth0/Best-Eats/blob/main/public/image%20for%20all%20page.png" >
